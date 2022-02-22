@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for the restitution of thentercourse betwixt the kingdomes, countreys, and subiectes of the Queenes maiestie and the king of Spayne</title>
+            <title>Proclamations. 1573-04-30</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1573</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21755</idno>
+            <idno type="STC">STC 8062</idno>
+            <idno type="STC">ESTC S112038</idno>
+            <idno type="EEBO-CITATION">99847297</idno>
+            <idno type="PROQUEST">99847297</idno>
+            <idno type="VID">12327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12327)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 456:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for the restitution of thentercourse betwixt the kingdomes, countreys, and subiectes of the Queenes maiestie and the king of Spayne</title>
+                  <title>Proclamations. 1573-04-30</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>In Powles Churcheyarde by Richarde Iugge, printer to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1573]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>Spain --  Commercial policy --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:12327:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>By the Queene.</head>
+            <head type="sub">A Proclamation for the reſtitution of thentercourſe betwixt the kingdomes, countreys, and ſubiectes of the Queenes maieſtie and the king of Spayne.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here of late yeeres there hath ben an intermiſſion of the late auncient enter<g ref="char:EOLhyphen"/>courſe of merchantes betwixt the Kyngdomes &amp; Countreys of the Queenes Maieſtie of Englande, and of the Kyng of Spayne, by reaſon of certayne ſtayes, &amp; arreſtes made of diuers ſubiectes on both partes, with their goodes and ſhippes, without any intention of eyther the ſayde Princes to breake or violate the auncient amities &amp; confederations continuyng in force betwixte them, or to diſcontinue the ſayde entercourſe: but that as it appeareth the ſame arreſtes hath ben occaſioned by perſons not vnderſtandyng the bene<g ref="char:EOLhyphen"/>fite, or not wyllyng to fauour the neceſſarie continuaunce of ſuch an auncient amitie, nouryſhed and mayn<g ref="char:EOLhyphen"/>teyned by the free entercourſe of the ſubiectes on eyther part. So it is, that both their Maieſties good meanynges towardes the continuaunce of their mutual amitie, and the reſtoryng of the ſayde entercourſe, beyng made knowen from the one to the other, by ſuch their good miniſters as haue ben herein vſed: There<g ref="char:EOLhyphen"/>fore it is in their names accorded, that all maner the ſubiectes of both the ſayde Princes, of what kyngdome or countrey ſo euer the ſame be, from the begynnyng of the firſt of Maye nowe inſtant, ſhall and may haue and enioy the ſame ryghtes and liberties, as they had in any of the dominions of eyther of the ſayde Prin<g ref="char:EOLhyphen"/>ces: and that they may from the ſayde tyme vſe the lyke mutuall entercourſe for merchandizes, as they were lawfully accuſtomed before the ſayde arreſtes. And for that it is meant that all occaſions of controuerſies or differences that hath happened betwixt the ſubiectes on eyther part ſynce the tyme of the ſayde arreſtes ſhoulde be hearde and determined: it is ordeyned that this reſtitution of the entercourſe, ſhall remayne from the ſayde firſt day of Maye, duryng the ſpace of two yeeres, to the intent that Commiſſioners to be appoyn<g ref="char:EOLhyphen"/>ted by the ſayde Princes within two monethes after the ſayde firſt of Maye, may ſpeedyly heare, order, and determine ſuche differences: Which yf they ſhoulde not be able to do, yet at the ende of the ſayde two yeeres, yf by the ſayde Princes in the meane tyme it be not otherwiſe prouided for continuaunce of the ſayde entercourſe, no new arreſtes ſhould be made of any thynges brought into the countreys of eyther of the ſayd Princes duryng the tyme of the ſayde two yeeres, but that all thynges ſhall remayne to the owners, with<g ref="char:EOLhyphen"/>out any diſturbance to be vſed within the Realme, or caryed out of the ſame, at any tyme within three mo<g ref="char:EOLhyphen"/>nethes after the ende of the two yeeres.</p>
+            <p>Wherefore the Queenes Maieſtie hath thought it neceſſarie, lyke as it is agreed that the ſayde Kyng of Spayne ſhal do the lyke, to notifie to all her ſubiectes the premiſſes, to thintent they may, as they ſhal fynde meete and conuenient, reſort to the countreys of the ſayde Kyng, and there vſe the lawfull entercourſe of merchandize, as before the late reſtraynt was lawfully by them vſed: Chargyng them to geue no occaſion of offence to the ſayde Kyng, or his Countreys, but to behaue them ſelues in ſuch ſorte, as the amitie be<g ref="char:EOLhyphen"/>twixt the ſayde Princes, and the entercourſe betwixt their ſubiectes, may continue to the honour and com<g ref="char:EOLhyphen"/>fort of the Princes, and to the mutuall concorde and benefite of their people. The lyke wherof it is accorded ſhalbe perfourmed on the ſayde Kynges part for hym ſelfe, and his ſubiectes reſortyng into any of her Maie<g ref="char:EOLhyphen"/>ſties dominions, to whom alſo ſhalbe ſhewed lyke fauour, for maynteynaunce of their entercourſe and traf<g ref="char:EOLhyphen"/>ficque, as in tyme paſt before the arreſt hath ben.</p>
+            <closer>
+               <dateline>Yeuen at her Maieſties manour of Grenewich <date>the laſt day of Apryll. 1573. in the fyfteenth yeere of her hyghnes raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Powles Churchyarde, by Richarde Iugge, Printer to the <hi>Queenes Maieſtie.</hi>
+            </p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio Regiae Maieſtatis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
